@@ -8,10 +8,6 @@ terraform {
 }
 
 provider azurerm {
-  subscription_id = 8c77ea9p-caa2-4d5f-a7f5-cec6d95d164c
-  tenant_id = a11bc5a9-502f-4f29-92b8-9742641e0c69
-  client_id = 6fa7b39f-2009-4850-be23-ce897c3eba77
-  client_secret = JsK8Q~7SsL3B9242SHCuArkzLSlc3ZkkC1XIdaFM
   features {}  
 }
 
